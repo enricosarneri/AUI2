@@ -581,6 +581,8 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
+    4: ARFOUNDATION_PRESENT
+    7: ARFOUNDATION_PRESENT
     14: 
   additionalCompilerArguments: {}
   platformArchitecture: {}
